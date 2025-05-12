@@ -1,0 +1,51 @@
+import event1 from "./../../images/event1.png";
+export const eventData = [
+    {
+        service: event1,
+        serviceName: "Join Soccer",
+        rate: 5,
+        personCount: 2,
+        time: "10:00 AM - 12:00 PM",
+        Price: 50,
+    },
+    {
+        service: event1,
+        serviceName: "Learn Music",
+        rate: 4.5,
+        personCount: 2,
+        time: "10:00 AM - 12:00 PM",
+        Price: 50,
+    },
+    {
+        service: event1,
+        serviceName: "Join Swimming",
+        rate: 4.8,
+        personCount: 2,
+        time: "10:00 AM - 12:00 PM",
+        Price: 50,
+    },
+    {
+        service: event1,
+        serviceName: "Join Art",
+        rate: 4.7,
+        personCount: 2,
+        time: "10:00 AM - 12:00 PM",
+        Price: 50,
+    },
+    {
+        service: event1,
+        serviceName: "Join Music",
+        rate: 5,
+        personCount: 2,
+        time: "10:00 AM - 12:00 PM",
+        Price: 50,
+    },
+    {
+        service: event1,
+        serviceName: "Join Hiking",
+        rate: 4.6,
+        personCount: 2,
+        time: "10:00 AM - 12:00 PM",
+        Price: 50,
+    },
+];
